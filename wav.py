@@ -23,7 +23,7 @@ jdilla = Wavefile(argv[2])
 martinFrames = martin.frames
 jdillaFrames = jdilla.frames
 
-"""
+
 #==================================TEST CASES============================================#
 #1. copy file
 martin.writeWav(DIRECTORY + '01_copy.wav', martinFrames)
